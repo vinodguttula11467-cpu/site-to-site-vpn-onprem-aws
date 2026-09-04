@@ -1,0 +1,4 @@
+# Never commit real AWS VPN config / pre-shared keys
+vpn-config.xml
+*.pem
+*.key
